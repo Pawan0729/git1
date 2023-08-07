@@ -4,4 +4,5 @@ let r=[];
 for(i=0; i<p.length; i++){
   r[i] = p[i]+q[i]
 }
+console.log(p);
 console.log(r);
